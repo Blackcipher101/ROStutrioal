@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/nehal/hacktober/two_wheeled/devel -DCMAKE_INSTALL_PREFIX=/home/nehal/hacktober/two_wheeled/install -G Unix Makefiles
